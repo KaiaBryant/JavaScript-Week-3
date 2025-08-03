@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+}

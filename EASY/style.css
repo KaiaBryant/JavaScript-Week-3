@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    background-color: bisque;
+}
+
+.intro-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: brown;
+}
+
+.input-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-display__screen {
+    width: 60vw;
+    height: 60px;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(126, 94, 12);
+}
+
+.day-btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 16px;
+}
